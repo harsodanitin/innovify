@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.innovify.events.config.FileStorageProperties",
+      "name": "file",
+      "type": "com.innovify.events.config.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.innovify.events.config.FileStorageProperties",
+      "name": "file.upload-dir",
+      "type": "java.lang.String"
+    }
+  ]
+}
